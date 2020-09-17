@@ -32,12 +32,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/mentors",
-					"protocol": "http",
+					"raw": "https://studentmentorvikas.herokuapp.com/api/mentors",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"studentmentorvikas",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"mentors"
@@ -61,12 +62,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/api/mentors",
-					"protocol": "http",
+					"raw": "https://studentmentorvikas.herokuapp.com/api/mentors",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"studentmentorvikas",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"mentors"
@@ -90,12 +92,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/api/students",
-					"protocol": "http",
+					"raw": "https://studentmentorvikas.herokuapp.com/api/students",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"studentmentorvikas",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"students"
@@ -119,12 +122,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/api/students/vikas",
-					"protocol": "http",
+					"raw": "https://studentmentorvikas.herokuapp.com/api/students/vikas",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"studentmentorvikas",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"students",
@@ -149,12 +153,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/api/mentors/ashwini",
-					"protocol": "http",
+					"raw": "https://studentmentorvikas.herokuapp.com/api/mentors/ashwini",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"studentmentorvikas",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"mentors",
@@ -170,12 +175,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/students/nomentors",
-					"protocol": "http",
+					"raw": "https://studentmentorvikas.herokuapp.com/api/students/nomentors",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"studentmentorvikas",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"students",
@@ -191,12 +197,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/api/mentors/ashwini",
-					"protocol": "http",
+					"raw": "https://studentmentorvikas.herokuapp.com/api/mentors/ashwini",
+					"protocol": "https",
 					"host": [
-						"localhost"
+						"studentmentorvikas",
+						"herokuapp",
+						"com"
 					],
-					"port": "3000",
 					"path": [
 						"api",
 						"mentors",
