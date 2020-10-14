@@ -7,7 +7,7 @@ const mongodb = require("mongodb");
 const app = express();
 const mongoClient = mongodb.MongoClient;
 const URL =
-  "mongodb+srv://test_user:9r4dDd8Itvp0Nprb@cluster0.zzynb.mongodb.net?retryWrites=true&w=majority";
+  "mongodb+srv://test_user:12345@cluster0.zzynb.mongodb.net?retryWrites=true&w=majority";
 const PORT = process.env.PORT || 3000;
 
 //middleware
